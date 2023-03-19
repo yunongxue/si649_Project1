@@ -1,0 +1,513 @@
+Year,LocationAbbr,LocationDesc,Response,DataValueType,Data_Value,WeightedNumber
+2020,US,"United States, DC & Territories",Any Disability,Age-adjusted Prevalence (%),24.8,64347214
+2020,US,"United States, DC & Territories",Cognitive Disability,Age-adjusted Prevalence (%),10.9,26573764
+2020,US,"United States, DC & Territories",Hearing Disability,Age-adjusted Prevalence (%),5.7,16195924
+2020,US,"United States, DC & Territories",Mobility Disability,Age-adjusted Prevalence (%),11.1,30741884
+2020,US,"United States, DC & Territories",Vision Disability,Age-adjusted Prevalence (%),4.9,12766560
+2020,US,"United States, DC & Territories",Self-care Disability,Age-adjusted Prevalence (%),3,8156953
+2020,US,"United States, DC & Territories",Independent Living Disability,Age-adjusted Prevalence (%),6.4,16372210
+2020,US,"United States, DC & Territories",No Disability,Age-adjusted Prevalence (%),75.2,181223676
+2020,AL,Alabama,Any Disability,Age-adjusted Prevalence (%),31.1,1208179
+2020,AL,Alabama,Cognitive Disability,Age-adjusted Prevalence (%),14.1,519445
+2020,AL,Alabama,Hearing Disability,Age-adjusted Prevalence (%),6.2,266504
+2020,AL,Alabama,Mobility Disability,Age-adjusted Prevalence (%),14.7,615788
+2020,AL,Alabama,Vision Disability,Age-adjusted Prevalence (%),5.2,204133
+2020,AL,Alabama,Self-care Disability,Age-adjusted Prevalence (%),4,161917
+2020,AL,Alabama,Independent Living Disability,Age-adjusted Prevalence (%),9.1,348885
+2020,AL,Alabama,No Disability,Age-adjusted Prevalence (%),68.9,2466870
+2020,AK,Alaska,Any Disability,Age-adjusted Prevalence (%),21.1,111809
+2020,AK,Alaska,Cognitive Disability,Age-adjusted Prevalence (%),7.6,39496
+2020,AK,Alaska,Hearing Disability,Age-adjusted Prevalence (%),7.2,39258
+2020,AK,Alaska,Mobility Disability,Age-adjusted Prevalence (%),8.8,47986
+2020,AK,Alaska,Vision Disability,Age-adjusted Prevalence (%),3.7,20304
+2020,AK,Alaska,Self-care Disability,Age-adjusted Prevalence (%),2,10840
+2020,AK,Alaska,Independent Living Disability,Age-adjusted Prevalence (%),4.5,23648
+2020,AK,Alaska,No Disability,Age-adjusted Prevalence (%),78.9,406078
+2020,AZ,Arizona,Any Disability,Age-adjusted Prevalence (%),24.3,1382191
+2020,AZ,Arizona,Cognitive Disability,Age-adjusted Prevalence (%),10.2,533415
+2020,AZ,Arizona,Hearing Disability,Age-adjusted Prevalence (%),5.7,357134
+2020,AZ,Arizona,Mobility Disability,Age-adjusted Prevalence (%),10.5,646277
+2020,AZ,Arizona,Vision Disability,Age-adjusted Prevalence (%),4.7,267440
+2020,AZ,Arizona,Self-care Disability,Age-adjusted Prevalence (%),2.8,158521
+2020,AZ,Arizona,Independent Living Disability,Age-adjusted Prevalence (%),5.9,327931
+2020,AZ,Arizona,No Disability,Age-adjusted Prevalence (%),75.7,3981131
+2020,AR,Arkansas,Any Disability,Age-adjusted Prevalence (%),31.3,729258
+2020,AR,Arkansas,Cognitive Disability,Age-adjusted Prevalence (%),14.4,317708
+2020,AR,Arkansas,Hearing Disability,Age-adjusted Prevalence (%),7,180269
+2020,AR,Arkansas,Mobility Disability,Age-adjusted Prevalence (%),15.8,391155
+2020,AR,Arkansas,Vision Disability,Age-adjusted Prevalence (%),6.1,145726
+2020,AR,Arkansas,Self-care Disability,Age-adjusted Prevalence (%),4.3,104175
+2020,AR,Arkansas,Independent Living Disability,Age-adjusted Prevalence (%),9.7,222009
+2020,AR,Arkansas,No Disability,Age-adjusted Prevalence (%),68.7,1471459
+2020,CA,California,Any Disability,Age-adjusted Prevalence (%),22.7,6734666
+2020,CA,California,Cognitive Disability,Age-adjusted Prevalence (%),10.1,2885116
+2020,CA,California,Hearing Disability,Age-adjusted Prevalence (%),4.8,1517714
+2020,CA,California,Mobility Disability,Age-adjusted Prevalence (%),9.7,2965588
+2020,CA,California,Vision Disability,Age-adjusted Prevalence (%),4.2,1295828
+2020,CA,California,Self-care Disability,Age-adjusted Prevalence (%),2.8,833620
+2020,CA,California,Independent Living Disability,Age-adjusted Prevalence (%),5.8,1693061
+2020,CA,California,No Disability,Age-adjusted Prevalence (%),77.3,22029214
+2020,CO,Colorado,Any Disability,Age-adjusted Prevalence (%),19.5,851596
+2020,CO,Colorado,Cognitive Disability,Age-adjusted Prevalence (%),8.3,351504
+2020,CO,Colorado,Hearing Disability,Age-adjusted Prevalence (%),4.4,201960
+2020,CO,Colorado,Mobility Disability,Age-adjusted Prevalence (%),7.2,334036
+2020,CO,Colorado,Vision Disability,Age-adjusted Prevalence (%),3.4,150315
+2020,CO,Colorado,Self-care Disability,Age-adjusted Prevalence (%),2.4,107714
+2020,CO,Colorado,Independent Living Disability,Age-adjusted Prevalence (%),4.9,213774
+2020,CO,Colorado,No Disability,Age-adjusted Prevalence (%),80.5,3428075
+2020,CT,Connecticut,Any Disability,Age-adjusted Prevalence (%),20.8,598002
+2020,CT,Connecticut,Cognitive Disability,Age-adjusted Prevalence (%),9.7,253211
+2020,CT,Connecticut,Hearing Disability,Age-adjusted Prevalence (%),4.6,150755
+2020,CT,Connecticut,Mobility Disability,Age-adjusted Prevalence (%),9,283412
+2020,CT,Connecticut,Vision Disability,Age-adjusted Prevalence (%),3.8,109166
+2020,CT,Connecticut,Self-care Disability,Age-adjusted Prevalence (%),2.3,68790
+2020,CT,Connecticut,Independent Living Disability,Age-adjusted Prevalence (%),4.7,135183
+2020,CT,Connecticut,No Disability,Age-adjusted Prevalence (%),79.2,2092002
+2020,DE,Delaware,Any Disability,Age-adjusted Prevalence (%),23.8,186592
+2020,DE,Delaware,Cognitive Disability,Age-adjusted Prevalence (%),10.4,72220
+2020,DE,Delaware,Hearing Disability,Age-adjusted Prevalence (%),5,44162
+2020,DE,Delaware,Mobility Disability,Age-adjusted Prevalence (%),10.5,89897
+2020,DE,Delaware,Vision Disability,Age-adjusted Prevalence (%),4.6,36263
+2020,DE,Delaware,Self-care Disability,Age-adjusted Prevalence (%),3.3,26048
+2020,DE,Delaware,Independent Living Disability,Age-adjusted Prevalence (%),6,44631
+2020,DE,Delaware,No Disability,Age-adjusted Prevalence (%),76.2,542130
+2020,DC,District of Columbia,Any Disability,Age-adjusted Prevalence (%),22.2,115456
+2020,DC,District of Columbia,Cognitive Disability,Age-adjusted Prevalence (%),10.9,59091
+2020,DC,District of Columbia,Hearing Disability,Age-adjusted Prevalence (%),3.5,18135
+2020,DC,District of Columbia,Mobility Disability,Age-adjusted Prevalence (%),10.2,51503
+2020,DC,District of Columbia,Vision Disability,Age-adjusted Prevalence (%),4.8,25261
+2020,DC,District of Columbia,Self-care Disability,Age-adjusted Prevalence (%),2.5,12816
+2020,DC,District of Columbia,Independent Living Disability,Age-adjusted Prevalence (%),5,25105
+2020,DC,District of Columbia,No Disability,Age-adjusted Prevalence (%),77.8,425264
+2020,FL,Florida,Any Disability,Age-adjusted Prevalence (%),25.7,4587950
+2020,FL,Florida,Cognitive Disability,Age-adjusted Prevalence (%),11.6,1871698
+2020,FL,Florida,Hearing Disability,Age-adjusted Prevalence (%),5.6,1142284
+2020,FL,Florida,Mobility Disability,Age-adjusted Prevalence (%),11.8,2324567
+2020,FL,Florida,Vision Disability,Age-adjusted Prevalence (%),5.6,967511
+2020,FL,Florida,Self-care Disability,Age-adjusted Prevalence (%),3.4,617845
+2020,FL,Florida,Independent Living Disability,Age-adjusted Prevalence (%),5.7,1002230
+2020,FL,Florida,No Disability,Age-adjusted Prevalence (%),74.3,11844820
+2020,GA,Georgia,Any Disability,Age-adjusted Prevalence (%),24.8,1960756
+2020,GA,Georgia,Cognitive Disability,Age-adjusted Prevalence (%),11.1,843942
+2020,GA,Georgia,Hearing Disability,Age-adjusted Prevalence (%),5.5,463277
+2020,GA,Georgia,Mobility Disability,Age-adjusted Prevalence (%),11.7,978333
+2020,GA,Georgia,Vision Disability,Age-adjusted Prevalence (%),4.8,386622
+2020,GA,Georgia,Self-care Disability,Age-adjusted Prevalence (%),3.3,271750
+2020,GA,Georgia,Independent Living Disability,Age-adjusted Prevalence (%),6.1,485552
+2020,GA,Georgia,No Disability,Age-adjusted Prevalence (%),75.2,5665421
+2020,HI,Hawaii,Any Disability,Age-adjusted Prevalence (%),18.7,218444
+2020,HI,Hawaii,Cognitive Disability,Age-adjusted Prevalence (%),7,75653
+2020,HI,Hawaii,Hearing Disability,Age-adjusted Prevalence (%),5.1,66160
+2020,HI,Hawaii,Mobility Disability,Age-adjusted Prevalence (%),7.6,96577
+2020,HI,Hawaii,Vision Disability,Age-adjusted Prevalence (%),4.1,45965
+2020,HI,Hawaii,Self-care Disability,Age-adjusted Prevalence (%),1.8,20607
+2020,HI,Hawaii,Independent Living Disability,Age-adjusted Prevalence (%),4.2,47810
+2020,HI,Hawaii,No Disability,Age-adjusted Prevalence (%),81.3,852649
+2020,ID,Idaho,Any Disability,Age-adjusted Prevalence (%),28.2,389960
+2020,ID,Idaho,Cognitive Disability,Age-adjusted Prevalence (%),12.3,159022
+2020,ID,Idaho,Hearing Disability,Age-adjusted Prevalence (%),7.9,119108
+2020,ID,Idaho,Mobility Disability,Age-adjusted Prevalence (%),10.7,158666
+2020,ID,Idaho,Vision Disability,Age-adjusted Prevalence (%),5.4,75471
+2020,ID,Idaho,Self-care Disability,Age-adjusted Prevalence (%),2.7,39137
+2020,ID,Idaho,Independent Living Disability,Age-adjusted Prevalence (%),6,83239
+2020,ID,Idaho,No Disability,Age-adjusted Prevalence (%),71.8,933506
+2020,IL,Illinois,Any Disability,Age-adjusted Prevalence (%),22.6,2320119
+2020,IL,Illinois,Cognitive Disability,Age-adjusted Prevalence (%),8,761211
+2020,IL,Illinois,Hearing Disability,Age-adjusted Prevalence (%),6.2,675523
+2020,IL,Illinois,Mobility Disability,Age-adjusted Prevalence (%),11,1193444
+2020,IL,Illinois,Vision Disability,Age-adjusted Prevalence (%),5,506113
+2020,IL,Illinois,Self-care Disability,Age-adjusted Prevalence (%),2.3,251583
+2020,IL,Illinois,Independent Living Disability,Age-adjusted Prevalence (%),5.2,558251
+2020,IL,Illinois,No Disability,Age-adjusted Prevalence (%),77.4,7174664
+2020,IN,Indiana,Any Disability,Age-adjusted Prevalence (%),26.9,1382302
+2020,IN,Indiana,Cognitive Disability,Age-adjusted Prevalence (%),11.6,560378
+2020,IN,Indiana,Hearing Disability,Age-adjusted Prevalence (%),6,341359
+2020,IN,Indiana,Mobility Disability,Age-adjusted Prevalence (%),12.5,690054
+2020,IN,Indiana,Vision Disability,Age-adjusted Prevalence (%),4.7,248810
+2020,IN,Indiana,Self-care Disability,Age-adjusted Prevalence (%),2.9,155766
+2020,IN,Indiana,Independent Living Disability,Age-adjusted Prevalence (%),6.5,331027
+2020,IN,Indiana,No Disability,Age-adjusted Prevalence (%),73.1,3511503
+2020,IA,Iowa,Any Disability,Age-adjusted Prevalence (%),21.7,534046
+2020,IA,Iowa,Cognitive Disability,Age-adjusted Prevalence (%),10,226366
+2020,IA,Iowa,Hearing Disability,Age-adjusted Prevalence (%),5.5,153504
+2020,IA,Iowa,Mobility Disability,Age-adjusted Prevalence (%),8.9,236164
+2020,IA,Iowa,Vision Disability,Age-adjusted Prevalence (%),2.6,66030
+2020,IA,Iowa,Self-care Disability,Age-adjusted Prevalence (%),2.2,56576
+2020,IA,Iowa,Independent Living Disability,Age-adjusted Prevalence (%),5.3,125938
+2020,IA,Iowa,No Disability,Age-adjusted Prevalence (%),78.3,1784108
+2020,KS,Kansas,Any Disability,Age-adjusted Prevalence (%),25.7,575521
+2020,KS,Kansas,Cognitive Disability,Age-adjusted Prevalence (%),11.4,241088
+2020,KS,Kansas,Hearing Disability,Age-adjusted Prevalence (%),6.4,156459
+2020,KS,Kansas,Mobility Disability,Age-adjusted Prevalence (%),11.1,264903
+2020,KS,Kansas,Vision Disability,Age-adjusted Prevalence (%),4.7,105398
+2020,KS,Kansas,Self-care Disability,Age-adjusted Prevalence (%),2.6,59507
+2020,KS,Kansas,Independent Living Disability,Age-adjusted Prevalence (%),6.3,139733
+2020,KS,Kansas,No Disability,Age-adjusted Prevalence (%),74.3,1558557
+2020,KY,Kentucky,Any Disability,Age-adjusted Prevalence (%),32.9,1175034
+2020,KY,Kentucky,Cognitive Disability,Age-adjusted Prevalence (%),15.4,518073
+2020,KY,Kentucky,Hearing Disability,Age-adjusted Prevalence (%),8.7,338144
+2020,KY,Kentucky,Mobility Disability,Age-adjusted Prevalence (%),16.1,607741
+2020,KY,Kentucky,Vision Disability,Age-adjusted Prevalence (%),6.6,237716
+2020,KY,Kentucky,Self-care Disability,Age-adjusted Prevalence (%),5.1,191864
+2020,KY,Kentucky,Independent Living Disability,Age-adjusted Prevalence (%),10,345182
+2020,KY,Kentucky,No Disability,Age-adjusted Prevalence (%),67.1,2183295
+2020,LA,Louisiana,Any Disability,Age-adjusted Prevalence (%),32.6,1122487
+2020,LA,Louisiana,Cognitive Disability,Age-adjusted Prevalence (%),16.2,530064
+2020,LA,Louisiana,Hearing Disability,Age-adjusted Prevalence (%),8.1,292497
+2020,LA,Louisiana,Mobility Disability,Age-adjusted Prevalence (%),15.4,566552
+2020,LA,Louisiana,Vision Disability,Age-adjusted Prevalence (%),8,274952
+2020,LA,Louisiana,Self-care Disability,Age-adjusted Prevalence (%),4.3,156562
+2020,LA,Louisiana,Independent Living Disability,Age-adjusted Prevalence (%),8.6,297091
+2020,LA,Louisiana,No Disability,Age-adjusted Prevalence (%),67.4,2204929
+2020,ME,Maine,Any Disability,Age-adjusted Prevalence (%),27,308824
+2020,ME,Maine,Cognitive Disability,Age-adjusted Prevalence (%),12.4,124031
+2020,ME,Maine,Hearing Disability,Age-adjusted Prevalence (%),7,94796
+2020,ME,Maine,Mobility Disability,Age-adjusted Prevalence (%),10.7,138559
+2020,ME,Maine,Vision Disability,Age-adjusted Prevalence (%),4.2,49285
+2020,ME,Maine,Self-care Disability,Age-adjusted Prevalence (%),2.8,34015
+2020,ME,Maine,Independent Living Disability,Age-adjusted Prevalence (%),6.4,68055
+2020,ME,Maine,No Disability,Age-adjusted Prevalence (%),73,746097
+2020,MD,Maryland,Any Disability,Age-adjusted Prevalence (%),19.7,911437
+2020,MD,Maryland,Cognitive Disability,Age-adjusted Prevalence (%),8.4,364718
+2020,MD,Maryland,Hearing Disability,Age-adjusted Prevalence (%),4.1,210380
+2020,MD,Maryland,Mobility Disability,Age-adjusted Prevalence (%),8.2,412172
+2020,MD,Maryland,Vision Disability,Age-adjusted Prevalence (%),3.4,158601
+2020,MD,Maryland,Self-care Disability,Age-adjusted Prevalence (%),2,98014
+2020,MD,Maryland,Independent Living Disability,Age-adjusted Prevalence (%),4.5,207637
+2020,MD,Maryland,No Disability,Age-adjusted Prevalence (%),80.3,3532237
+2020,MA,Massachusetts,Any Disability,Age-adjusted Prevalence (%),22.6,1242139
+2020,MA,Massachusetts,Cognitive Disability,Age-adjusted Prevalence (%),10.2,518316
+2020,MA,Massachusetts,Hearing Disability,Age-adjusted Prevalence (%),4.5,280832
+2020,MA,Massachusetts,Mobility Disability,Age-adjusted Prevalence (%),9.3,558934
+2020,MA,Massachusetts,Vision Disability,Age-adjusted Prevalence (%),3.6,208067
+2020,MA,Massachusetts,Self-care Disability,Age-adjusted Prevalence (%),2.9,171761
+2020,MA,Massachusetts,Independent Living Disability,Age-adjusted Prevalence (%),6.2,335787
+2020,MA,Massachusetts,No Disability,Age-adjusted Prevalence (%),77.4,3979276
+2020,MI,Michigan,Any Disability,Age-adjusted Prevalence (%),26,2087923
+2020,MI,Michigan,Cognitive Disability,Age-adjusted Prevalence (%),12.6,927144
+2020,MI,Michigan,Hearing Disability,Age-adjusted Prevalence (%),5,456521
+2020,MI,Michigan,Mobility Disability,Age-adjusted Prevalence (%),11.5,1003313
+2020,MI,Michigan,Vision Disability,Age-adjusted Prevalence (%),3.4,289536
+2020,MI,Michigan,Self-care Disability,Age-adjusted Prevalence (%),3.4,286297
+2020,MI,Michigan,Independent Living Disability,Age-adjusted Prevalence (%),7.6,590473
+2020,MI,Michigan,No Disability,Age-adjusted Prevalence (%),74,5496990
+2020,MN,Minnesota,Any Disability,Age-adjusted Prevalence (%),19.9,882754
+2020,MN,Minnesota,Cognitive Disability,Age-adjusted Prevalence (%),8.9,363690
+2020,MN,Minnesota,Hearing Disability,Age-adjusted Prevalence (%),5.4,260351
+2020,MN,Minnesota,Mobility Disability,Age-adjusted Prevalence (%),7.7,369334
+2020,MN,Minnesota,Vision Disability,Age-adjusted Prevalence (%),3.1,137727
+2020,MN,Minnesota,Self-care Disability,Age-adjusted Prevalence (%),2.2,100906
+2020,MN,Minnesota,Independent Living Disability,Age-adjusted Prevalence (%),4.8,204251
+2020,MN,Minnesota,No Disability,Age-adjusted Prevalence (%),80.1,3290098
+2020,MS,Mississippi,Any Disability,Age-adjusted Prevalence (%),32.7,767264
+2020,MS,Mississippi,Cognitive Disability,Age-adjusted Prevalence (%),15.2,338786
+2020,MS,Mississippi,Hearing Disability,Age-adjusted Prevalence (%),7.9,194793
+2020,MS,Mississippi,Mobility Disability,Age-adjusted Prevalence (%),16.6,414067
+2020,MS,Mississippi,Vision Disability,Age-adjusted Prevalence (%),7.1,166276
+2020,MS,Mississippi,Self-care Disability,Age-adjusted Prevalence (%),5.1,122251
+2020,MS,Mississippi,Independent Living Disability,Age-adjusted Prevalence (%),8.6,207491
+2020,MS,Mississippi,No Disability,Age-adjusted Prevalence (%),67.3,1457831
+2020,MO,Missouri,Any Disability,Age-adjusted Prevalence (%),28.4,1406836
+2020,MO,Missouri,Cognitive Disability,Age-adjusted Prevalence (%),13.3,609642
+2020,MO,Missouri,Hearing Disability,Age-adjusted Prevalence (%),7.4,402254
+2020,MO,Missouri,Mobility Disability,Age-adjusted Prevalence (%),13,684110
+2020,MO,Missouri,Vision Disability,Age-adjusted Prevalence (%),4.4,221555
+2020,MO,Missouri,Self-care Disability,Age-adjusted Prevalence (%),3.6,177773
+2020,MO,Missouri,Independent Living Disability,Age-adjusted Prevalence (%),7.4,353380
+2020,MO,Missouri,No Disability,Age-adjusted Prevalence (%),71.6,3230480
+2020,MT,Montana,Any Disability,Age-adjusted Prevalence (%),26.2,233169
+2020,MT,Montana,Cognitive Disability,Age-adjusted Prevalence (%),10.6,85479
+2020,MT,Montana,Hearing Disability,Age-adjusted Prevalence (%),8.7,86097
+2020,MT,Montana,Mobility Disability,Age-adjusted Prevalence (%),10,97658
+2020,MT,Montana,Vision Disability,Age-adjusted Prevalence (%),4.3,39075
+2020,MT,Montana,Self-care Disability,Age-adjusted Prevalence (%),2.9,25296
+2020,MT,Montana,Independent Living Disability,Age-adjusted Prevalence (%),5.6,46770
+2020,MT,Montana,No Disability,Age-adjusted Prevalence (%),73.8,589709
+2020,NE,Nebraska,Any Disability,Age-adjusted Prevalence (%),20.3,306192
+2020,NE,Nebraska,Cognitive Disability,Age-adjusted Prevalence (%),8.2,115106
+2020,NE,Nebraska,Hearing Disability,Age-adjusted Prevalence (%),6,97503
+2020,NE,Nebraska,Mobility Disability,Age-adjusted Prevalence (%),8.3,133963
+2020,NE,Nebraska,Vision Disability,Age-adjusted Prevalence (%),3.2,49382
+2020,NE,Nebraska,Self-care Disability,Age-adjusted Prevalence (%),2,30932
+2020,NE,Nebraska,Independent Living Disability,Age-adjusted Prevalence (%),5,74640
+2020,NE,Nebraska,No Disability,Age-adjusted Prevalence (%),79.7,1108414
+2020,NV,Nevada,Any Disability,Age-adjusted Prevalence (%),28.4,711436
+2020,NV,Nevada,Cognitive Disability,Age-adjusted Prevalence (%),10.7,263390
+2020,NV,Nevada,Hearing Disability,Age-adjusted Prevalence (%),6.2,164764
+2020,NV,Nevada,Mobility Disability,Age-adjusted Prevalence (%),13,352463
+2020,NV,Nevada,Vision Disability,Age-adjusted Prevalence (%),7.2,181885
+2020,NV,Nevada,Self-care Disability,Age-adjusted Prevalence (%),3.6,93932
+2020,NV,Nevada,Independent Living Disability,Age-adjusted Prevalence (%),7.5,185386
+2020,NV,Nevada,No Disability,Age-adjusted Prevalence (%),71.6,1637235
+2020,NH,New Hampshire,Any Disability,Age-adjusted Prevalence (%),21.2,232359
+2020,NH,New Hampshire,Cognitive Disability,Age-adjusted Prevalence (%),9.3,91996
+2020,NH,New Hampshire,Hearing Disability,Age-adjusted Prevalence (%),5.5,68714
+2020,NH,New Hampshire,Mobility Disability,Age-adjusted Prevalence (%),8.4,104183
+2020,NH,New Hampshire,Vision Disability,Age-adjusted Prevalence (%),3.7,40618
+2020,NH,New Hampshire,Self-care Disability,Age-adjusted Prevalence (%),2.6,28404
+2020,NH,New Hampshire,Independent Living Disability,Age-adjusted Prevalence (%),6,62029
+2020,NH,New Hampshire,No Disability,Age-adjusted Prevalence (%),78.8,791602
+2020,NJ,New Jersey,Any Disability,Age-adjusted Prevalence (%),20.9,1415625
+2020,NJ,New Jersey,Cognitive Disability,Age-adjusted Prevalence (%),8.6,544155
+2020,NJ,New Jersey,Hearing Disability,Age-adjusted Prevalence (%),4,296804
+2020,NJ,New Jersey,Mobility Disability,Age-adjusted Prevalence (%),9.2,683297
+2020,NJ,New Jersey,Vision Disability,Age-adjusted Prevalence (%),4.2,283999
+2020,NJ,New Jersey,Self-care Disability,Age-adjusted Prevalence (%),2.5,183913
+2020,NJ,New Jersey,Independent Living Disability,Age-adjusted Prevalence (%),5.6,376433
+2020,NJ,New Jersey,No Disability,Age-adjusted Prevalence (%),79.1,4973134
+2020,NM,New Mexico,Any Disability,Age-adjusted Prevalence (%),26.3,440271
+2020,NM,New Mexico,Cognitive Disability,Age-adjusted Prevalence (%),11.3,178039
+2020,NM,New Mexico,Hearing Disability,Age-adjusted Prevalence (%),6.2,117332
+2020,NM,New Mexico,Mobility Disability,Age-adjusted Prevalence (%),11.3,204062
+2020,NM,New Mexico,Vision Disability,Age-adjusted Prevalence (%),5.3,87869
+2020,NM,New Mexico,Self-care Disability,Age-adjusted Prevalence (%),3.5,58464
+2020,NM,New Mexico,Independent Living Disability,Age-adjusted Prevalence (%),6.8,111414
+2020,NM,New Mexico,No Disability,Age-adjusted Prevalence (%),73.7,1117604
+2020,NY,New York,Any Disability,Age-adjusted Prevalence (%),21.5,3273589
+2020,NY,New York,Cognitive Disability,Age-adjusted Prevalence (%),9.2,1314456
+2020,NY,New York,Hearing Disability,Age-adjusted Prevalence (%),4,687258
+2020,NY,New York,Mobility Disability,Age-adjusted Prevalence (%),10.6,1735508
+2020,NY,New York,Vision Disability,Age-adjusted Prevalence (%),3.9,601465
+2020,NY,New York,Self-care Disability,Age-adjusted Prevalence (%),2.8,456061
+2020,NY,New York,Independent Living Disability,Age-adjusted Prevalence (%),5.8,904661
+2020,NY,New York,No Disability,Age-adjusted Prevalence (%),78.5,10954415
+2020,NC,North Carolina,Any Disability,Age-adjusted Prevalence (%),25.9,2198903
+2020,NC,North Carolina,Cognitive Disability,Age-adjusted Prevalence (%),11.3,901885
+2020,NC,North Carolina,Hearing Disability,Age-adjusted Prevalence (%),7.1,651475
+2020,NC,North Carolina,Mobility Disability,Age-adjusted Prevalence (%),12.5,1121874
+2020,NC,North Carolina,Vision Disability,Age-adjusted Prevalence (%),5.8,496886
+2020,NC,North Carolina,Self-care Disability,Age-adjusted Prevalence (%),3.1,264761
+2020,NC,North Carolina,Independent Living Disability,Age-adjusted Prevalence (%),6,512118
+2020,NC,North Carolina,No Disability,Age-adjusted Prevalence (%),74.1,5749852
+2020,ND,North Dakota,Any Disability,Age-adjusted Prevalence (%),24.2,142506
+2020,ND,North Dakota,Cognitive Disability,Age-adjusted Prevalence (%),9.7,54233
+2020,ND,North Dakota,Hearing Disability,Age-adjusted Prevalence (%),8.2,51257
+2020,ND,North Dakota,Mobility Disability,Age-adjusted Prevalence (%),9.6,59245
+2020,ND,North Dakota,Vision Disability,Age-adjusted Prevalence (%),3.5,20648
+2020,ND,North Dakota,Self-care Disability,Age-adjusted Prevalence (%),2.6,15191
+2020,ND,North Dakota,Independent Living Disability,Age-adjusted Prevalence (%),5.7,32595
+2020,ND,North Dakota,No Disability,Age-adjusted Prevalence (%),75.8,422248
+2020,OH,Ohio,Any Disability,Age-adjusted Prevalence (%),25.4,2322751
+2020,OH,Ohio,Cognitive Disability,Age-adjusted Prevalence (%),11.4,960204
+2020,OH,Ohio,Hearing Disability,Age-adjusted Prevalence (%),6,602357
+2020,OH,Ohio,Mobility Disability,Age-adjusted Prevalence (%),11.7,1168340
+2020,OH,Ohio,Vision Disability,Age-adjusted Prevalence (%),4.5,411046
+2020,OH,Ohio,Self-care Disability,Age-adjusted Prevalence (%),2.6,251264
+2020,OH,Ohio,Independent Living Disability,Age-adjusted Prevalence (%),6.7,604649
+2020,OH,Ohio,No Disability,Age-adjusted Prevalence (%),74.6,6306104
+2020,OK,Oklahoma,Any Disability,Age-adjusted Prevalence (%),33.4,990976
+2020,OK,Oklahoma,Cognitive Disability,Age-adjusted Prevalence (%),13.5,381875
+2020,OK,Oklahoma,Hearing Disability,Age-adjusted Prevalence (%),9.1,292156
+2020,OK,Oklahoma,Mobility Disability,Age-adjusted Prevalence (%),15.7,488411
+2020,OK,Oklahoma,Vision Disability,Age-adjusted Prevalence (%),7.4,220504
+2020,OK,Oklahoma,Self-care Disability,Age-adjusted Prevalence (%),3.9,120466
+2020,OK,Oklahoma,Independent Living Disability,Age-adjusted Prevalence (%),9.1,263413
+2020,OK,Oklahoma,No Disability,Age-adjusted Prevalence (%),66.6,1845752
+2020,OR,Oregon,Any Disability,Age-adjusted Prevalence (%),25.9,885741
+2020,OR,Oregon,Cognitive Disability,Age-adjusted Prevalence (%),11.8,377599
+2020,OR,Oregon,Hearing Disability,Age-adjusted Prevalence (%),6.6,253238
+2020,OR,Oregon,Mobility Disability,Age-adjusted Prevalence (%),10.6,390703
+2020,OR,Oregon,Vision Disability,Age-adjusted Prevalence (%),4.7,161789
+2020,OR,Oregon,Self-care Disability,Age-adjusted Prevalence (%),2.9,103145
+2020,OR,Oregon,Independent Living Disability,Age-adjusted Prevalence (%),6.3,210695
+2020,OR,Oregon,No Disability,Age-adjusted Prevalence (%),74.1,2336870
+2020,PA,Pennsylvania,Any Disability,Age-adjusted Prevalence (%),25.5,2657064
+2020,PA,Pennsylvania,Cognitive Disability,Age-adjusted Prevalence (%),11.3,1071070
+2020,PA,Pennsylvania,Hearing Disability,Age-adjusted Prevalence (%),6,702923
+2020,PA,Pennsylvania,Mobility Disability,Age-adjusted Prevalence (%),11.3,1306339
+2020,PA,Pennsylvania,Vision Disability,Age-adjusted Prevalence (%),3.6,391357
+2020,PA,Pennsylvania,Self-care Disability,Age-adjusted Prevalence (%),3.2,350788
+2020,PA,Pennsylvania,Independent Living Disability,Age-adjusted Prevalence (%),7,721458
+2020,PA,Pennsylvania,No Disability,Age-adjusted Prevalence (%),74.5,7081215
+2020,RI,Rhode Island,Any Disability,Age-adjusted Prevalence (%),23.4,197895
+2020,RI,Rhode Island,Cognitive Disability,Age-adjusted Prevalence (%),10.5,83028
+2020,RI,Rhode Island,Hearing Disability,Age-adjusted Prevalence (%),5.1,48827
+2020,RI,Rhode Island,Mobility Disability,Age-adjusted Prevalence (%),9.8,90477
+2020,RI,Rhode Island,Vision Disability,Age-adjusted Prevalence (%),4.8,40667
+2020,RI,Rhode Island,Self-care Disability,Age-adjusted Prevalence (%),2.5,21546
+2020,RI,Rhode Island,Independent Living Disability,Age-adjusted Prevalence (%),6.2,51854
+2020,RI,Rhode Island,No Disability,Age-adjusted Prevalence (%),76.6,594264
+2020,SC,South Carolina,Any Disability,Age-adjusted Prevalence (%),30.9,1304480
+2020,SC,South Carolina,Cognitive Disability,Age-adjusted Prevalence (%),14.3,555786
+2020,SC,South Carolina,Hearing Disability,Age-adjusted Prevalence (%),6.7,312771
+2020,SC,South Carolina,Mobility Disability,Age-adjusted Prevalence (%),14.7,667205
+2020,SC,South Carolina,Vision Disability,Age-adjusted Prevalence (%),7.4,316682
+2020,SC,South Carolina,Self-care Disability,Age-adjusted Prevalence (%),4.4,194641
+2020,SC,South Carolina,Independent Living Disability,Age-adjusted Prevalence (%),8.9,372098
+2020,SC,South Carolina,No Disability,Age-adjusted Prevalence (%),69.1,2666089
+2020,SD,South Dakota,Any Disability,Age-adjusted Prevalence (%),23.5,161900
+2020,SD,South Dakota,Cognitive Disability,Age-adjusted Prevalence (%),8,51847
+2020,SD,South Dakota,Hearing Disability,Age-adjusted Prevalence (%),7.1,52627
+2020,SD,South Dakota,Mobility Disability,Age-adjusted Prevalence (%),8.7,65469
+2020,SD,South Dakota,Vision Disability,Age-adjusted Prevalence (%),4.1,27396
+2020,SD,South Dakota,Self-care Disability,Age-adjusted Prevalence (%),2.1,15081
+2020,SD,South Dakota,Independent Living Disability,Age-adjusted Prevalence (%),4.1,28249
+2020,SD,South Dakota,No Disability,Age-adjusted Prevalence (%),76.5,487620
+2020,TN,Tennessee,Any Disability,Age-adjusted Prevalence (%),29.1,1552858
+2020,TN,Tennessee,Cognitive Disability,Age-adjusted Prevalence (%),12.7,637287
+2020,TN,Tennessee,Hearing Disability,Age-adjusted Prevalence (%),6.8,397758
+2020,TN,Tennessee,Mobility Disability,Age-adjusted Prevalence (%),13.5,775426
+2020,TN,Tennessee,Vision Disability,Age-adjusted Prevalence (%),6,326484
+2020,TN,Tennessee,Self-care Disability,Age-adjusted Prevalence (%),4,220980
+2020,TN,Tennessee,Independent Living Disability,Age-adjusted Prevalence (%),8.4,447674
+2020,TN,Tennessee,No Disability,Age-adjusted Prevalence (%),70.9,3492110
+2020,TX,Texas,Any Disability,Age-adjusted Prevalence (%),25.9,5435500
+2020,TX,Texas,Cognitive Disability,Age-adjusted Prevalence (%),10.9,2264934
+2020,TX,Texas,Hearing Disability,Age-adjusted Prevalence (%),6.2,1344613
+2020,TX,Texas,Mobility Disability,Age-adjusted Prevalence (%),11.1,2403382
+2020,TX,Texas,Vision Disability,Age-adjusted Prevalence (%),6.3,1336714
+2020,TX,Texas,Self-care Disability,Age-adjusted Prevalence (%),3,648614
+2020,TX,Texas,Independent Living Disability,Age-adjusted Prevalence (%),6.3,1335415
+2020,TX,Texas,No Disability,Age-adjusted Prevalence (%),74.1,15222756
+2020,UT,Utah,Any Disability,Age-adjusted Prevalence (%),22.6,497787
+2020,UT,Utah,Cognitive Disability,Age-adjusted Prevalence (%),10.7,242971
+2020,UT,Utah,Hearing Disability,Age-adjusted Prevalence (%),5.9,129567
+2020,UT,Utah,Mobility Disability,Age-adjusted Prevalence (%),8.7,189708
+2020,UT,Utah,Vision Disability,Age-adjusted Prevalence (%),2.8,62804
+2020,UT,Utah,Self-care Disability,Age-adjusted Prevalence (%),2.1,46537
+2020,UT,Utah,Independent Living Disability,Age-adjusted Prevalence (%),5.4,121826
+2020,UT,Utah,No Disability,Age-adjusted Prevalence (%),77.4,1730558
+2020,VT,Vermont,Any Disability,Age-adjusted Prevalence (%),20.8,110014
+2020,VT,Vermont,Cognitive Disability,Age-adjusted Prevalence (%),9.4,43756
+2020,VT,Vermont,Hearing Disability,Age-adjusted Prevalence (%),5.4,32854
+2020,VT,Vermont,Mobility Disability,Age-adjusted Prevalence (%),8.1,46798
+2020,VT,Vermont,Vision Disability,Age-adjusted Prevalence (%),3.2,17657
+2020,VT,Vermont,Self-care Disability,Age-adjusted Prevalence (%),2.3,12556
+2020,VT,Vermont,Independent Living Disability,Age-adjusted Prevalence (%),5.7,29007
+2020,VT,Vermont,No Disability,Age-adjusted Prevalence (%),79.2,376219
+2020,VA,Virginia,Any Disability,Age-adjusted Prevalence (%),21.8,1437186
+2020,VA,Virginia,Cognitive Disability,Age-adjusted Prevalence (%),9.8,609904
+2020,VA,Virginia,Hearing Disability,Age-adjusted Prevalence (%),4.7,339992
+2020,VA,Virginia,Mobility Disability,Age-adjusted Prevalence (%),9.6,678794
+2020,VA,Virginia,Vision Disability,Age-adjusted Prevalence (%),3.4,231948
+2020,VA,Virginia,Self-care Disability,Age-adjusted Prevalence (%),2.3,163554
+2020,VA,Virginia,Independent Living Disability,Age-adjusted Prevalence (%),5.3,351946
+2020,VA,Virginia,No Disability,Age-adjusted Prevalence (%),78.2,4905016
+2020,WA,Washington,Any Disability,Age-adjusted Prevalence (%),21.6,1273876
+2020,WA,Washington,Cognitive Disability,Age-adjusted Prevalence (%),9.6,530601
+2020,WA,Washington,Hearing Disability,Age-adjusted Prevalence (%),5.5,349424
+2020,WA,Washington,Mobility Disability,Age-adjusted Prevalence (%),8.4,534954
+2020,WA,Washington,Vision Disability,Age-adjusted Prevalence (%),3.4,202598
+2020,WA,Washington,Self-care Disability,Age-adjusted Prevalence (%),2.7,167151
+2020,WA,Washington,Independent Living Disability,Age-adjusted Prevalence (%),5.7,331479
+2020,WA,Washington,No Disability,Age-adjusted Prevalence (%),78.4,4334253
+2020,WV,West Virginia,Any Disability,Age-adjusted Prevalence (%),32.3,494529
+2020,WV,West Virginia,Cognitive Disability,Age-adjusted Prevalence (%),15.3,209390
+2020,WV,West Virginia,Hearing Disability,Age-adjusted Prevalence (%),7.5,130561
+2020,WV,West Virginia,Mobility Disability,Age-adjusted Prevalence (%),15.5,262694
+2020,WV,West Virginia,Vision Disability,Age-adjusted Prevalence (%),5.6,87257
+2020,WV,West Virginia,Self-care Disability,Age-adjusted Prevalence (%),4.2,66965
+2020,WV,West Virginia,Independent Living Disability,Age-adjusted Prevalence (%),10,149051
+2020,WV,West Virginia,No Disability,Age-adjusted Prevalence (%),67.7,894273
+2020,WI,Wisconsin,Any Disability,Age-adjusted Prevalence (%),21.2,977277
+2020,WI,Wisconsin,Cognitive Disability,Age-adjusted Prevalence (%),10.1,418252
+2020,WI,Wisconsin,Hearing Disability,Age-adjusted Prevalence (%),4.6,241264
+2020,WI,Wisconsin,Mobility Disability,Age-adjusted Prevalence (%),8.9,440911
+2020,WI,Wisconsin,Vision Disability,Age-adjusted Prevalence (%),3.2,146490
+2020,WI,Wisconsin,Self-care Disability,Age-adjusted Prevalence (%),2.6,118874
+2020,WI,Wisconsin,Independent Living Disability,Age-adjusted Prevalence (%),6.2,264587
+2020,WI,Wisconsin,No Disability,Age-adjusted Prevalence (%),78.8,3380699
+2020,WY,Wyoming,Any Disability,Age-adjusted Prevalence (%),23.5,107514
+2020,WY,Wyoming,Cognitive Disability,Age-adjusted Prevalence (%),9.1,38308
+2020,WY,Wyoming,Hearing Disability,Age-adjusted Prevalence (%),8.3,40624
+2020,WY,Wyoming,Mobility Disability,Age-adjusted Prevalence (%),9.4,45435
+2020,WY,Wyoming,Vision Disability,Age-adjusted Prevalence (%),4.8,21971
+2020,WY,Wyoming,Self-care Disability,Age-adjusted Prevalence (%),2.5,11876
+2020,WY,Wyoming,Independent Living Disability,Age-adjusted Prevalence (%),6,26421
+2020,WY,Wyoming,No Disability,Age-adjusted Prevalence (%),76.5,321856
+2020,GU,Guam,Any Disability,Age-adjusted Prevalence (%),26,24206
+2020,GU,Guam,Cognitive Disability,Age-adjusted Prevalence (%),8.9,8844
+2020,GU,Guam,Hearing Disability,Age-adjusted Prevalence (%),6.6,6258
+2020,GU,Guam,Mobility Disability,Age-adjusted Prevalence (%),12.1,10589
+2020,GU,Guam,Vision Disability,Age-adjusted Prevalence (%),6.9,7089
+2020,GU,Guam,Self-care Disability,Age-adjusted Prevalence (%),,
+2020,GU,Guam,Independent Living Disability,Age-adjusted Prevalence (%),7.2,6603
+2020,GU,Guam,No Disability,Age-adjusted Prevalence (%),74,77951
+2020,PR,Puerto Rico,Any Disability,Age-adjusted Prevalence (%),40.2,1170067
+2020,PR,Puerto Rico,Cognitive Disability,Age-adjusted Prevalence (%),17,474343
+2020,PR,Puerto Rico,Hearing Disability,Age-adjusted Prevalence (%),8.7,272772
+2020,PR,Puerto Rico,Mobility Disability,Age-adjusted Prevalence (%),17.8,560866
+2020,PR,Puerto Rico,Vision Disability,Age-adjusted Prevalence (%),19.1,554212
+2020,PR,Puerto Rico,Self-care Disability,Age-adjusted Prevalence (%),6,186614
+2020,PR,Puerto Rico,Independent Living Disability,Age-adjusted Prevalence (%),10.2,332383
+2020,PR,Puerto Rico,No Disability,Age-adjusted Prevalence (%),59.8,1537174
+2020,HHS1,HHS Region 1,Any Disability,Age-adjusted Prevalence (%),22.4,2689232
+2020,HHS1,HHS Region 1,Cognitive Disability,Age-adjusted Prevalence (%),10.2,1114337
+2020,HHS1,HHS Region 1,Hearing Disability,Age-adjusted Prevalence (%),4.9,676778
+2020,HHS1,HHS Region 1,Mobility Disability,Age-adjusted Prevalence (%),9.2,1222362
+2020,HHS1,HHS Region 1,Vision Disability,Age-adjusted Prevalence (%),3.8,465459
+2020,HHS1,HHS Region 1,Self-care Disability,Age-adjusted Prevalence (%),2.7,337072
+2020,HHS1,HHS Region 1,Independent Living Disability,Age-adjusted Prevalence (%),5.8,681915
+2020,HHS1,HHS Region 1,No Disability,Age-adjusted Prevalence (%),77.6,8579460
+2020,HHS2,HHS Region 2,Any Disability,Age-adjusted Prevalence (%),23.5,5859281
+2020,HHS2,HHS Region 2,Cognitive Disability,Age-adjusted Prevalence (%),9.9,2332954
+2020,HHS2,HHS Region 2,Hearing Disability,Age-adjusted Prevalence (%),4.6,1256834
+2020,HHS2,HHS Region 2,Mobility Disability,Age-adjusted Prevalence (%),11,2979671
+2020,HHS2,HHS Region 2,Vision Disability,Age-adjusted Prevalence (%),5.7,1439677
+2020,HHS2,HHS Region 2,Self-care Disability,Age-adjusted Prevalence (%),3.1,826589
+2020,HHS2,HHS Region 2,Independent Living Disability,Age-adjusted Prevalence (%),6.3,1613477
+2020,HHS2,HHS Region 2,No Disability,Age-adjusted Prevalence (%),76.5,17464722
+2020,HHS3,HHS Region 3,Any Disability,Age-adjusted Prevalence (%),23.6,5802264
+2020,HHS3,HHS Region 3,Cognitive Disability,Age-adjusted Prevalence (%),10.5,2386393
+2020,HHS3,HHS Region 3,Hearing Disability,Age-adjusted Prevalence (%),5.3,1446154
+2020,HHS3,HHS Region 3,Mobility Disability,Age-adjusted Prevalence (%),10.5,2801399
+2020,HHS3,HHS Region 3,Vision Disability,Age-adjusted Prevalence (%),3.7,930685
+2020,HHS3,HHS Region 3,Self-care Disability,Age-adjusted Prevalence (%),2.8,718185
+2020,HHS3,HHS Region 3,Independent Living Disability,Age-adjusted Prevalence (%),6.1,1499828
+2020,HHS3,HHS Region 3,No Disability,Age-adjusted Prevalence (%),76.4,17380134
+2020,HHS4,HHS Region 4,Any Disability,Age-adjusted Prevalence (%),27.5,14755423
+2020,HHS4,HHS Region 4,Cognitive Disability,Age-adjusted Prevalence (%),12.4,6186901
+2020,HHS4,HHS Region 4,Hearing Disability,Age-adjusted Prevalence (%),6.4,3767006
+2020,HHS4,HHS Region 4,Mobility Disability,Age-adjusted Prevalence (%),13,7505000
+2020,HHS4,HHS Region 4,Vision Disability,Age-adjusted Prevalence (%),5.8,3102308
+2020,HHS4,HHS Region 4,Self-care Disability,Age-adjusted Prevalence (%),3.7,2046008
+2020,HHS4,HHS Region 4,Independent Living Disability,Age-adjusted Prevalence (%),7,3721231
+2020,HHS4,HHS Region 4,No Disability,Age-adjusted Prevalence (%),72.5,35526288
+2020,HHS5,HHS Region 5,Any Disability,Age-adjusted Prevalence (%),23.9,9973126
+2020,HHS5,HHS Region 5,Cognitive Disability,Age-adjusted Prevalence (%),10.4,3990880
+2020,HHS5,HHS Region 5,Hearing Disability,Age-adjusted Prevalence (%),5.6,2577375
+2020,HHS5,HHS Region 5,Mobility Disability,Age-adjusted Prevalence (%),10.8,4865395
+2020,HHS5,HHS Region 5,Vision Disability,Age-adjusted Prevalence (%),4.2,1739723
+2020,HHS5,HHS Region 5,Self-care Disability,Age-adjusted Prevalence (%),2.7,1164690
+2020,HHS5,HHS Region 5,Independent Living Disability,Age-adjusted Prevalence (%),6.2,2553238
+2020,HHS5,HHS Region 5,No Disability,Age-adjusted Prevalence (%),76.1,29160058
+2020,HHS6,HHS Region 6,Any Disability,Age-adjusted Prevalence (%),27.7,8718492
+2020,HHS6,HHS Region 6,Cognitive Disability,Age-adjusted Prevalence (%),12,3672621
+2020,HHS6,HHS Region 6,Hearing Disability,Age-adjusted Prevalence (%),6.7,2226867
+2020,HHS6,HHS Region 6,Mobility Disability,Age-adjusted Prevalence (%),12.4,4053562
+2020,HHS6,HHS Region 6,Vision Disability,Age-adjusted Prevalence (%),6.5,2065765
+2020,HHS6,HHS Region 6,Self-care Disability,Age-adjusted Prevalence (%),3.3,1088281
+2020,HHS6,HHS Region 6,Independent Living Disability,Age-adjusted Prevalence (%),7.1,2229341
+2020,HHS6,HHS Region 6,No Disability,Age-adjusted Prevalence (%),72.3,21862500
+2020,HHS7,HHS Region 7,Any Disability,Age-adjusted Prevalence (%),25.3,2822595
+2020,HHS7,HHS Region 7,Cognitive Disability,Age-adjusted Prevalence (%),11.5,1192202
+2020,HHS7,HHS Region 7,Hearing Disability,Age-adjusted Prevalence (%),6.6,809721
+2020,HHS7,HHS Region 7,Mobility Disability,Age-adjusted Prevalence (%),11.1,1319141
+2020,HHS7,HHS Region 7,Vision Disability,Age-adjusted Prevalence (%),3.9,442365
+2020,HHS7,HHS Region 7,Self-care Disability,Age-adjusted Prevalence (%),2.9,324788
+2020,HHS7,HHS Region 7,Independent Living Disability,Age-adjusted Prevalence (%),6.4,693692
+2020,HHS7,HHS Region 7,No Disability,Age-adjusted Prevalence (%),74.7,7681559
+2020,HHS8,HHS Region 8,Any Disability,Age-adjusted Prevalence (%),21.7,1994471
+2020,HHS8,HHS Region 8,Cognitive Disability,Age-adjusted Prevalence (%),9.2,824341
+2020,HHS8,HHS Region 8,Hearing Disability,Age-adjusted Prevalence (%),5.8,562132
+2020,HHS8,HHS Region 8,Mobility Disability,Age-adjusted Prevalence (%),8.2,791551
+2020,HHS8,HHS Region 8,Vision Disability,Age-adjusted Prevalence (%),3.5,322209
+2020,HHS8,HHS Region 8,Self-care Disability,Age-adjusted Prevalence (%),2.4,221695
+2020,HHS8,HHS Region 8,Independent Living Disability,Age-adjusted Prevalence (%),5.1,469636
+2020,HHS8,HHS Region 8,No Disability,Age-adjusted Prevalence (%),78.3,6980066
+2020,HHS9,HHS Region 9,Any Disability,Age-adjusted Prevalence (%),23.2,9070943
+2020,HHS9,HHS Region 9,Cognitive Disability,Age-adjusted Prevalence (%),10,3766417
+2020,HHS9,HHS Region 9,Hearing Disability,Age-adjusted Prevalence (%),5,2112029
+2020,HHS9,HHS Region 9,Mobility Disability,Age-adjusted Prevalence (%),10,4071494
+2020,HHS9,HHS Region 9,Vision Disability,Age-adjusted Prevalence (%),4.5,1798207
+2020,HHS9,HHS Region 9,Self-care Disability,Age-adjusted Prevalence (%),2.8,1109372
+2020,HHS9,HHS Region 9,Independent Living Disability,Age-adjusted Prevalence (%),5.9,2260792
+2020,HHS9,HHS Region 9,No Disability,Age-adjusted Prevalence (%),76.8,28578180
+2020,HHS10,HHS Region 10,Any Disability,Age-adjusted Prevalence (%),23.7,2661386
+2020,HHS10,HHS Region 10,Cognitive Disability,Age-adjusted Prevalence (%),10.5,1106719
+2020,HHS10,HHS Region 10,Hearing Disability,Age-adjusted Prevalence (%),6.2,761028
+2020,HHS10,HHS Region 10,Mobility Disability,Age-adjusted Prevalence (%),9.4,1132309
+2020,HHS10,HHS Region 10,Vision Disability,Age-adjusted Prevalence (%),4,460162
+2020,HHS10,HHS Region 10,Self-care Disability,Age-adjusted Prevalence (%),2.7,320274
+2020,HHS10,HHS Region 10,Independent Living Disability,Age-adjusted Prevalence (%),5.8,649062
+2020,HHS10,HHS Region 10,No Disability,Age-adjusted Prevalence (%),76.3,8010707
